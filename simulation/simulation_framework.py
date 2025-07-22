@@ -67,8 +67,6 @@ class YouthAgent:
     english_proficiency: float  # 0-1 scale
     digital_literacy: float  # 0-1 scale
     ai_familiarity: float  # 0-1 scale
-    traditional_skills: Dict[str, float] = field(default_factory=dict)
-    ai_enhanced_skills: Dict[str, float] = field(default_factory=dict)
     
     # Social and cultural factors
     family_support: float  # 0-1 scale
@@ -81,12 +79,16 @@ class YouthAgent:
     debt_burden: float  # BDT
     family_financial_pressure: float  # 0-1 scale
     
+    # Fields with default values must come after non-default fields
+    traditional_skills: Dict[str, float] = field(default_factory=dict)
+    ai_enhanced_skills: Dict[str, float] = field(default_factory=dict)
+    
     # Program participation
     program_participation: bool = False
     training_completion_rate: float = 0.0
     months_in_program: int = 0
     
-    # Outcomes tracking
+    # Historical tracking
     employment_history: List[Dict] = field(default_factory=list)
     income_history: List[float] = field(default_factory=list)
     skill_development_history: List[Dict] = field(default_factory=list)

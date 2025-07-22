@@ -1,0 +1,610 @@
+{
+  "demo_simulation": {
+    "simulation_months": 12,
+    "total_youth_agents": 500,
+    "final_employment_rate": 92.60000000000001,
+    "employment_rate_improvement": 0.0,
+    "average_income_increase": 0.0,
+    "total_economic_impact": 348276453.08781624,
+    "total_youth_trained": 191,
+    "training_employment_rate": 100.0,
+    "male_employment_rate": 94.04761904761905,
+    "female_employment_rate": 91.12903225806451,
+    "gender_gap": 2.9185867895545385,
+    "regional_results": {
+      "dhaka": {
+        "total_youth": 65,
+        "employed": 62,
+        "employment_rate": 95.38461538461539,
+        "avg_income": 36948.27626880176
+      },
+      "chittagong": {
+        "total_youth": 38,
+        "employed": 35,
+        "employment_rate": 92.10526315789474,
+        "avg_income": 31014.629443183443
+      },
+      "sylhet": {
+        "total_youth": 28,
+        "employed": 28,
+        "employment_rate": 100.0,
+        "avg_income": 31895.334891469825
+      },
+      "rural_areas": {
+        "total_youth": 369,
+        "employed": 338,
+        "employment_rate": 91.59891598915989,
+        "avg_income": 23628.79847267145
+      }
+    },
+    "monthly_metrics": [
+      {
+        "month": 0,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 25,
+        "completed_training": 0,
+        "avg_ai_skills": 0.274438229069085,
+        "avg_traditional_skills": 0.46730410541634604,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 1,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 25,
+        "completed_training": 0,
+        "avg_ai_skills": 0.2789415436192387,
+        "avg_traditional_skills": 0.4668368013109297,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 2,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 25,
+        "completed_training": 0,
+        "avg_ai_skills": 0.2850709057913191,
+        "avg_traditional_skills": 0.46636996450961876,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 3,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 25,
+        "completed_training": 0,
+        "avg_ai_skills": 0.2900935438289962,
+        "avg_traditional_skills": 0.46590359454510916,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 4,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 2,
+        "completed_training": 23,
+        "avg_ai_skills": 0.29617303258456856,
+        "avg_traditional_skills": 0.46543769095056403,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 5,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 1,
+        "completed_training": 24,
+        "avg_ai_skills": 0.2965387722805286,
+        "avg_traditional_skills": 0.46497225325961344,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 6,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 1,
+        "completed_training": 24,
+        "avg_ai_skills": 0.2966659805083694,
+        "avg_traditional_skills": 0.46450728100635386,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 7,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 1,
+        "completed_training": 24,
+        "avg_ai_skills": 0.2967659805083694,
+        "avg_traditional_skills": 0.4640427737253475,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 8,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 1,
+        "completed_training": 24,
+        "avg_ai_skills": 0.2968659805083694,
+        "avg_traditional_skills": 0.46357873095162216,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 9,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 1,
+        "completed_training": 24,
+        "avg_ai_skills": 0.2969659805083694,
+        "avg_traditional_skills": 0.46311515222067057,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 10,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 1,
+        "completed_training": 24,
+        "avg_ai_skills": 0.2970659805083694,
+        "avg_traditional_skills": 0.4626520370684499,
+        "economic_impact": 29023037.75731802
+      },
+      {
+        "month": 11,
+        "employment_rate": 92.60000000000001,
+        "unemployment_rate": 0.0,
+        "underemployment_rate": 0.0,
+        "average_income": 26384.579779380016,
+        "total_income": 13192289.889690008,
+        "in_training": 1,
+        "completed_training": 24,
+        "avg_ai_skills": 0.2971659805083694,
+        "avg_traditional_skills": 0.46218938503138146,
+        "economic_impact": 29023037.75731802
+      }
+    ],
+    "final_ai_skills_avg": 0.2971659805083694,
+    "skills_improvement": 0.022727751439284405
+  },
+  "scenario_comparison": {
+    "Conservative": {
+      "simulation_months": 12,
+      "total_youth_agents": 400,
+      "final_employment_rate": 96.5,
+      "employment_rate_improvement": 0.0,
+      "average_income_increase": 0.0,
+      "total_economic_impact": 317845762.4962241,
+      "total_youth_trained": 112,
+      "training_employment_rate": 100.0,
+      "male_employment_rate": 94.20289855072464,
+      "female_employment_rate": 98.96373056994818,
+      "gender_gap": -4.7608320192235425,
+      "regional_results": {
+        "dhaka": {
+          "total_youth": 82,
+          "employed": 77,
+          "employment_rate": 93.90243902439023,
+          "avg_income": 33262.35783320565
+        },
+        "chittagong": {
+          "total_youth": 53,
+          "employed": 52,
+          "employment_rate": 98.11320754716981,
+          "avg_income": 27434.36085689295
+        },
+        "sylhet": {
+          "total_youth": 19,
+          "employed": 18,
+          "employment_rate": 94.73684210526315,
+          "avg_income": 47024.484483632164
+        },
+        "rural_areas": {
+          "total_youth": 246,
+          "employed": 239,
+          "employment_rate": 97.15447154471545,
+          "avg_income": 28311.433100970964
+        }
+      },
+      "monthly_metrics": [
+        {
+          "month": 0,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 15,
+          "completed_training": 0,
+          "avg_ai_skills": 0.28811643552505983,
+          "avg_traditional_skills": 0.5062988873166675,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 1,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 15,
+          "completed_training": 0,
+          "avg_ai_skills": 0.2918755602753569,
+          "avg_traditional_skills": 0.5057925884293507,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 2,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 15,
+          "completed_training": 0,
+          "avg_ai_skills": 0.2966646450019941,
+          "avg_traditional_skills": 0.5052867958409215,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 3,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 15,
+          "completed_training": 0,
+          "avg_ai_skills": 0.29953593040451376,
+          "avg_traditional_skills": 0.5047815090450806,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 4,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 1,
+          "completed_training": 14,
+          "avg_ai_skills": 0.30390208959359055,
+          "avg_traditional_skills": 0.5042767275360355,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 5,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 1,
+          "completed_training": 14,
+          "avg_ai_skills": 0.3042020895935906,
+          "avg_traditional_skills": 0.5037724508084994,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 6,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 1,
+          "completed_training": 14,
+          "avg_ai_skills": 0.30450208959359054,
+          "avg_traditional_skills": 0.503268678357691,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 7,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 1,
+          "completed_training": 14,
+          "avg_ai_skills": 0.30480208959359056,
+          "avg_traditional_skills": 0.5027654096793333,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 8,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 1,
+          "completed_training": 14,
+          "avg_ai_skills": 0.30510208959359053,
+          "avg_traditional_skills": 0.5022626442696538,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 9,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 1,
+          "completed_training": 14,
+          "avg_ai_skills": 0.30540208959359055,
+          "avg_traditional_skills": 0.5017603816253842,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 10,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 1,
+          "completed_training": 14,
+          "avg_ai_skills": 0.3057020895935906,
+          "avg_traditional_skills": 0.5012586212437589,
+          "economic_impact": 26487146.874685343
+        },
+        {
+          "month": 11,
+          "employment_rate": 96.5,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 30099.030539415162,
+          "total_income": 12039612.215766065,
+          "in_training": 1,
+          "completed_training": 14,
+          "avg_ai_skills": 0.3060020895935905,
+          "avg_traditional_skills": 0.5007573626225151,
+          "economic_impact": 26487146.874685343
+        }
+      ],
+      "final_ai_skills_avg": 0.3060020895935905,
+      "skills_improvement": 0.017885654068530654
+    },
+    "Optimistic": {
+      "simulation_months": 12,
+      "total_youth_agents": 600,
+      "final_employment_rate": 95.0,
+      "employment_rate_improvement": 0.0,
+      "average_income_increase": 0.0,
+      "total_economic_impact": 413073913.77242374,
+      "total_youth_trained": 269,
+      "training_employment_rate": 100.0,
+      "male_employment_rate": 95.9731543624161,
+      "female_employment_rate": 94.03973509933775,
+      "gender_gap": 1.933419263078349,
+      "regional_results": {
+        "dhaka": {
+          "total_youth": 101,
+          "employed": 97,
+          "employment_rate": 96.03960396039604,
+          "avg_income": 34456.81515433111
+        },
+        "chittagong": {
+          "total_youth": 70,
+          "employed": 66,
+          "employment_rate": 94.28571428571428,
+          "avg_income": 28029.397971410548
+        },
+        "sylhet": {
+          "total_youth": 37,
+          "employed": 34,
+          "employment_rate": 91.8918918918919,
+          "avg_income": 24609.910648617333
+        },
+        "rural_areas": {
+          "total_youth": 392,
+          "employed": 373,
+          "employment_rate": 95.1530612244898,
+          "avg_income": 23709.123151687098
+        }
+      },
+      "monthly_metrics": [
+        {
+          "month": 0,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 35,
+          "completed_training": 0,
+          "avg_ai_skills": 0.28276389211348013,
+          "avg_traditional_skills": 0.48237285665306256,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 1,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 35,
+          "completed_training": 0,
+          "avg_ai_skills": 0.2884498598845069,
+          "avg_traditional_skills": 0.48189048379640953,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 2,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 35,
+          "completed_training": 0,
+          "avg_ai_skills": 0.2959181640533818,
+          "avg_traditional_skills": 0.4814085933126131,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 3,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 35,
+          "completed_training": 0,
+          "avg_ai_skills": 0.3014094132872459,
+          "avg_traditional_skills": 0.48092718471930046,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 4,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 3,
+          "completed_training": 32,
+          "avg_ai_skills": 0.30799214315597156,
+          "avg_traditional_skills": 0.4804462575345811,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 5,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 2,
+          "completed_training": 33,
+          "avg_ai_skills": 0.30840880982263824,
+          "avg_traditional_skills": 0.47996581127704663,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 6,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 1,
+          "completed_training": 34,
+          "avg_ai_skills": 0.30882547648930486,
+          "avg_traditional_skills": 0.47948584546576956,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 7,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 1,
+          "completed_training": 34,
+          "avg_ai_skills": 0.30904214315597156,
+          "avg_traditional_skills": 0.4790063596203038,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 8,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 1,
+          "completed_training": 34,
+          "avg_ai_skills": 0.3092588098226382,
+          "avg_traditional_skills": 0.4785273532606835,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 9,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 1,
+          "completed_training": 34,
+          "avg_ai_skills": 0.3094754764893049,
+          "avg_traditional_skills": 0.47804882590742276,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 10,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 1,
+          "completed_training": 34,
+          "avg_ai_skills": 0.30969214315597154,
+          "avg_traditional_skills": 0.4775707770815154,
+          "economic_impact": 34422826.14770198
+        },
+        {
+          "month": 11,
+          "employment_rate": 95.0,
+          "unemployment_rate": 0.0,
+          "underemployment_rate": 0.0,
+          "average_income": 26077.898596743922,
+          "total_income": 15646739.158046354,
+          "in_training": 1,
+          "completed_training": 34,
+          "avg_ai_skills": 0.30990880982263824,
+          "avg_traditional_skills": 0.47709320630443386,
+          "economic_impact": 34422826.14770198
+        }
+      ],
+      "final_ai_skills_avg": 0.30990880982263824,
+      "skills_improvement": 0.027144917709158112
+    }
+  },
+  "demo_config": {
+    "simulation_months": 12,
+    "num_youth_agents": 500,
+    "num_employer_agents": 50,
+    "monthly_training_capacity": 25,
+    "scenario": "demo"
+  },
+  "timestamp": "2025-07-22T15:37:53.337760",
+  "framework_version": "1.0"
+}

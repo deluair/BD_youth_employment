@@ -176,35 +176,61 @@ This comprehensive framework addresses youth unemployment in Bangladesh through 
 - Global AI competitiveness: Top 30 ranking
 - AI-human collaboration innovation leadership
 
+## Project Structure
+
+```
+BD_youth_employment/
+├── README.md                    # Project overview and quick start
+├── requirements.txt             # Python dependencies
+├── docs/                        # Documentation
+│   ├── comprehensive_action_plan.md
+│   ├── implementation_plan.md
+│   ├── monitoring_evaluation_framework.md
+│   ├── skills_development_framework.md
+│   ├── business_models_and_earning_opportunities.md
+│   ├── funding_and_investment_guide.md
+│   ├── sample_life_trajectory_module.md
+│   ├── trajectory_implementation_guide.md
+│   ├── simulation_models_and_modules.md
+│   ├── realistic_data_module.md
+│   ├── simulation_usage_guide.md
+│   └── simulation_documentation.md
+├── simulation/                  # Simulation code
+│   ├── simulation_framework.py # Core simulation engine
+│   ├── demo_simulation.py      # Quick demonstration
+│   └── test_simulation.py      # Validation suite
+├── results/                     # Simulation outputs
+│   ├── simulation_results.json
+│   ├── demo_simulation_results.json
+│   ├── scenario_conservative_results.json
+│   └── simulation_results.png
+└── scripts/                     # Utility scripts
+```
+
 ## Project Documentation
 
-This comprehensive framework includes the following detailed documents:
+### Core Framework Documents (docs/)
+- **comprehensive_action_plan.md** - Complete implementation roadmap
+- **implementation_plan.md** - Detailed execution strategy
+- **monitoring_evaluation_framework.md** - Performance tracking system
 
-### Core Framework Documents
-1. **<mcfile name="README.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\README.md"></mcfile>** - Project overview and framework summary
-2. **<mcfile name="comprehensive_action_plan.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\comprehensive_action_plan.md"></mcfile>** - Strategic roadmap and implementation timeline
-3. **<mcfile name="implementation_plan.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\implementation_plan.md"></mcfile>** - Detailed three-phase implementation strategy
+### Skill and Business Development Documents (docs/)
+- **skills_development_framework.md** - AI-enhanced training programs
+- **business_models_and_earning_opportunities.md** - Economic pathways
+- **funding_and_investment_guide.md** - Financial resource mobilization
 
-### Skill and Business Development
-4. **<mcfile name="skills_development_framework.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\skills_development_framework.md"></mcfile>** - AI-enhanced skill development pathways
-5. **<mcfile name="business_models_and_earning_opportunities.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\business_models_and_earning_opportunities.md"></mcfile>** - AI-resilient business models and income strategies
+### Support Systems and Evaluation Documents (docs/)
+- **sample_life_trajectory_module.md** - Individual success pathways
+- **trajectory_implementation_guide.md** - Practical guidance system
 
-### Support Systems and Evaluation
-6. **<mcfile name="funding_and_investment_guide.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\funding_and_investment_guide.md"></mcfile>** - Comprehensive funding sources and investment strategies
-7. **<mcfile name="monitoring_evaluation_framework.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\monitoring_evaluation_framework.md"></mcfile>** - Performance tracking and evaluation system
-
-### Practical Implementation
-8. **<mcfile name="sample_life_trajectory_module.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\sample_life_trajectory_module.md"></mcfile>** - Detailed 36-month success journey example
-9. **<mcfile name="trajectory_implementation_guide.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\trajectory_implementation_guide.md"></mcfile>** - Adaptation frameworks for different demographics and contexts
-
-### Simulation Models and Data Analytics
-10. **<mcfile name="simulation_models_and_modules.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\simulation_models_and_modules.md"></mcfile>** - Comprehensive simulation framework architecture and methodology
-11. **<mcfile name="realistic_data_module.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\realistic_data_module.md"></mcfile>** - Detailed datasets and realistic parameters for simulation modeling
-12. **<mcfile name="simulation_framework.py" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\simulation_framework.py"></mcfile>** - Python-based agent simulation engine with scenario testing
-13. **<mcfile name="test_simulation.py" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\test_simulation.py"></mcfile>** - Comprehensive validation and testing suite for simulation models
-14. **<mcfile name="simulation_usage_guide.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\simulation_usage_guide.md"></mcfile>** - User guide for running and interpreting simulation results
-15. **<mcfile name="simulation_documentation.md" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\simulation_documentation.md"></mcfile>** - Complete technical documentation and implementation guide
-16. **<mcfile name="requirements.txt" path="c:\Users\mhossen\OneDrive - University of Tennessee\AI\BD_youth_employment\requirements.txt"></mcfile>** - Python dependencies for simulation framework
+### Simulation Models and Data Analytics (docs/ & simulation/)
+- **simulation_models_and_modules.md** - Agent-based economic modeling framework
+- **realistic_data_module.md** - Bangladesh-specific data integration
+- **simulation_framework.py** - Core Python simulation engine
+- **demo_simulation.py** - Quick demonstration script
+- **test_simulation.py** - Validation and testing suite
+- **simulation_usage_guide.md** - User guide for running simulations
+- **simulation_documentation.md** - Technical documentation
 
 ## Simulation Models and Data-Driven Validation
 
